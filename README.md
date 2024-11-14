@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuba Gökarslan</h1>
 <h3 align="center">I am a 3rd year student of Computer Engineering</h3>
 
-- 🔭 I’m currently an intern at **Yazılım.xyz**
-
-- 🌱 I’m currently learning **Spring boot,Microservice,Kotlin**
+- 🌱 I’m currently learning **Python,Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TubaGk](https://github.com/TubaGk)
 
