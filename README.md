@@ -4,15 +4,10 @@
 - 🌱 I’m currently learning **C#**, **.NET**, and exploring **Artificial Intelligence**
 - 🎯 I’m focused on combining **AI** with real-world solutions
 - 💬 Ask me about **C#**, **Python**, **Java**, or **AI projects**
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tuba-gokarslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tuba-gokarslan/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tubagokarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tubagokarslan" height="30" width="40" /></a>
-</p>
-
+  
 ---
 
 ### 💻 Backend Development & AI / ML / Data Science
