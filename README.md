@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuba Gök</h1>
+<h1 align="center">Hi 👋, I'm Tuba Gökarslan</h1>
 <h3 align="center">I am a 4th year Computer Engineering student passionate about software development and AI</h3>
 
 - 🌱 I’m currently learning **Java Backend Development**, **C#**, **.NET**, and building **LLM-integrated applications**
