@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuba Gökarslan</h1>
 
 <h3 align="center">Computer Engineering Student | Java Backend Developer | Python & AI Enthusiast</h3>
-
 ---
 
 * ☕ Strong interest in **Java (Spring Boot)** backend development and robust system architecture.
@@ -37,7 +36,7 @@
 <tr>
 <td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/></a></td>
 <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/></a></td>
-<td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/></a></td>
+<td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/></a></td>
 <td><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" title="Redis"/></a></td>
 <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React"/></a></td>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></a></td>
@@ -62,6 +61,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TubaGk&show_icons=true&theme=radical" alt="Tuba's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TubaGk&layout=compact&theme=radical" alt="Top Langs" width="43%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TubaGk&theme=radical" alt="GitHub Details" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TubaGk&theme=radical" alt="GitHub Streak" width="43%"/>
 </p>
