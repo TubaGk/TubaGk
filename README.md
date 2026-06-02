@@ -61,6 +61,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TubaGk&theme=radical" alt="GitHub Details" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TubaGk&theme=radical" alt="GitHub Streak" width="43%"/>
+  <img src="https://komarev.com/ghpvc/?username=TubaGk&color=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TubaGk&theme=react-dark&area=true" alt="Tuba's GitHub Activity Graph" width="91%" />
 </p>
