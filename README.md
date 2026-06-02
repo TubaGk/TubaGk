@@ -60,10 +60,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TubaGk&color=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TubaGk&theme=react-dark&area=true" alt="Tuba's GitHub Activity Graph" width="91%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TubaGk&theme=rose&hide_border=false&include_all_commits=true&count_private=true" alt="Tuba's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TubaGk&theme=rose&hide_border=false&layout=compact" alt="Top Languages" width="49%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TubaGk&theme=rose&hide_border=false" alt="GitHub Streak" width="99%" />
 </p>
