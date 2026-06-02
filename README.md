@@ -2,11 +2,6 @@
 
 <h3 align="center">Computer Engineering Student | Java Backend Developer | Python & AI Enthusiast</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 ---
 
 * ☕ Strong interest in **Java (Spring Boot)** backend development and robust system architecture.
@@ -67,6 +62,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Tuba's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" width="43%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TubaGk&show_icons=true&theme=radical" alt="Tuba's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TubaGk&layout=compact&theme=radical" alt="Top Langs" width="43%"/>
 </p>
